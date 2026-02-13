@@ -1,6 +1,6 @@
 # ARC_reactivation_model
 Mathematical model of dynamic antigen expression in HIV reservoir clones. Code for Ferreira, I.A.T.M.
- et al., Dynamic Antigen Expression and CTL Resistance in HIV Reservoir Clones. Nature (2026).
+ *et al.*, Dynamic Antigen Expression and CTL Resistance in HIV Reservoir Clones. *Nature* (2026).
 
 This repository contains code for simulations of our model of transient antigen expression and for fitting to simulated and real data. All necessary code is included in the jupyter notebook **ARC_reactivation_model.ipynb**. This file can be opened and **run with a free account** on Google Colab to recreate our analaysis of ARC data. Access the active version on Colab through this [link](https://colab.research.google.com/drive/1zJJaVwacgs4qot6J3AYt5iPx9uzr3ved?usp=sharingc).
 
