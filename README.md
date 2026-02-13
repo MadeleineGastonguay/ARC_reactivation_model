@@ -18,3 +18,5 @@ This repository contains code for simulations of our model of transient antigen 
   - To fit this model to your own data, replace the data entered in the "experimental data" code chunks with your own. Updated priors in `latency_model` chunk as needed and run fitting code.
 
 For questions and concerns, post an issue or contact Maddie Gastonguay (mgaston1@jh.edu) and Alison Hill (alison.hill@utoronto.ca).
+
+Release at time of publication: [![DOI](https://zenodo.org/badge/1157443652.svg)](https://doi.org/10.5281/zenodo.18636764).
