@@ -5,12 +5,12 @@ This repository contains code for simulations of our model of transient antigen 
 
 1. System requirements:
  - any system that can run a jupyter notebook
-3. Installation guide:
+2. Installation guide:
  - download the jupyter notebook and run it on Google Colab
  - less than 5 minutes to install
-4. Demo:
+3. Demo:
   - There is a code block included in jupyter notebook that generates simulated data and shows model fitting results
   - Code will return samples from the posterior distribution for model parameters, which are summarised and visualized
   - Run time depends on size of data set, number of chains, and number of samples during MCMC
-6. Instructions for use:
+4. Instructions for use:
   - To fit this model to your own data, replace the data entered in the "experimental data" code chunks with your own. Updated priors in `latency_model` chunk as needed and run fitting code.
